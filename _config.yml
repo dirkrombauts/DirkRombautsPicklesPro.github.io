@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://DirkRombautsPicklesPro.github.io
+title: Pickles Pro
+tagline: The Next Level of BDD
+description: I will discuss my journey through the wonderful world of Behaviour Driven Development. Even the longest journey can be made in small steps!
+paginate: 5
