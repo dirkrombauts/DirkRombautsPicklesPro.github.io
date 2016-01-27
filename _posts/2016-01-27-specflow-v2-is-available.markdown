@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: SpecFlow v2 is available
 layout: post
 tags: [SpecFlow, Pickles, BDD, LivingDocumentation, SpecificationByExample]
