@@ -18,9 +18,9 @@ Next you need to install the SpecFlow plug-in in Visual Studio.
 2. In the `Tools` menu, click on `Extensions and Updates ...`.  
    ![Start Extensions Manager](/public/img/2016-02-09_StartExtentionsManager.png)
 3. Expand the `Online` node on the left hand side, and click on the `Visual Studio Gallery` node.  
-   ![Open the Visual Studio Gallery]("/img/2016-02-09_OpenTheVisualStudioGallery.png")
+   ![Open the Visual Studio Gallery](/public/img/2016-02-09_OpenTheVisualStudioGallery.png)
 4. Search for `SpecFlow` in the search box in the top right corner, then click on the `Download` button for SpecFlow's entry in the search results.  
-   ![Search for the SpecFlow Plug-in]("/img/2016-02-09_SearchForTheSpecFlowPlugin.png")
+   ![Search for the SpecFlow Plug-in](/public/img/2016-02-09_SearchForTheSpecFlowPlugin.png)
 5. When the installer has finished downloading, click on the `Install` button in the `Download and Install` window. A web page will open with some advice on how to get started with SpecFlow. Feel free to read it or close it.
 6. Click on the `Restart Now` button to finish the installation. Visual Studio will restart.
 
@@ -34,14 +34,14 @@ Now we will set up a Visual Studio solution and project, and add references to S
     2. Click on the entry for `Class Library` in the list in the middle pane.
     3. Provide a name in the `Name` textbox near the bottom, for example `FirstStepsWithSpecFlow`.
     4. Click on the `OK` button in the bottom right corner.      
-    ![Create New Project]("/img/2016-02-09_CreateNewProject.png")
+    ![Create New Project](/public/img/2016-02-09_CreateNewProject.png)
 3. Visual Studio provides a class named `Class1`. Delete it by right-clicking its file in the Solution Explorer and clicking `Delete`. Click on the `OK` button to confirm.
 4. Add a reference to SpecFlow and [nUnit](http://www.nunit.org/), a unit-testing framework:
     1. Right-click on the project (named `FirstStepsWithSpecFlow`) in Solution Explorer and click on `Manage NuGet Packages ...`.
     2. In the `NuGet Package Manager` window, click on `Browse` and search for `SpecFlow.NUnit`.
     3. Click on the entry for `SpecFlow.NUnit` in the result list
     4. Click on the `Install` button on the right hand side.  
-    ![Add NuGet Packages]("/img/2016-02-09_AddNuGetPackages.png")
+    ![Add NuGet Packages](/public/img/2016-02-09_AddNuGetPackages.png)
     5. Close the `NuGet Package Manager` window.
 
 ## Add a Feature File
@@ -55,13 +55,13 @@ We will now add the first `.feature` file: that is the kind of file that contain
     3. Provide a name for the feature file near the bottom.
     4. Click on the `Add` button near the bottom right corner.     
 
-![Add Feature File]("/img/2016-02-AddFeatureFile.png")
+![Add Feature File](/public/img/2016-02-AddFeatureFile.png)
 
 The `.feature` opens, and you will see a sample scenario (`Add Two Numbers`). 
 
 We can now execute the specification for the first time. In the `Test` menu, point to `Run` and then click on `All Tests`. Alternatively, you can press `Ctrl+R,A`. Open the `Test Explorer` tool window by opening the `Test` menu, pointing to `Windows` and clicking on `Test Explorer`. You will see a list with a node for the sample scenario.
 
-![Test Explorer: First Run]("/img/2016-02-09_TestExplorerFirstRun.png")
+![Test Explorer: First Run](/public/img/2016-02-09_TestExplorerFirstRun.png)
 
 Note: if the `Test Explorer` is empty, you need to install the `NUnit3 Test Adapter 3.0` plug-in in the same way you installed the `SpecFlow` plug-in earlier.
 
@@ -71,11 +71,11 @@ Select the `Add Two Numbers` scenario. You will see that the test was not run be
 
 Add a step definition file in much the same way as you added a `.feature` file, except that you select the `SpecFlow Step Definition` entry.
 
-![Add Step Definitions]("/img/2016-02-09_AddStepDefinitions.png")
+![Add Step Definitions](/public/img/2016-02-09_AddStepDefinitions.png)
 
 Execute the specification again. The Test Explorer tool window now has a different message: one or more step definitions are not implemented yet. SpecFlow found our step definitions and used them, but of course there is nothing meaningful inside them yet.
 
-![Test Explorer: Second Run]("/img/2016-02-09_TestExplorerSecondRun.png")
+![Test Explorer: Second Run](/public/img/2016-02-09_TestExplorerSecondRun.png)
 
 Replace the code for the `StepDefinition1` class with this version:
 
@@ -147,7 +147,7 @@ First create a new class called `Calculator` and replace it with this code:
 
 Execute the specification again. The Test Explorer tool window now has yet another different message: the method or operation is not implemented. SpecFlow found our step definitions and our calculator object, but the `Add` method is not implemented yet.
 
-![Test Explorer: Third Run]("/img/2016-02-09_TestExplorerThirdRun.png")
+![Test Explorer: Third Run](/public/img/2016-02-09_TestExplorerThirdRun.png)
 
 
 Now replace the `Add` method in `Calculator` with this version:
@@ -161,7 +161,7 @@ Now replace the `Add` method in `Calculator` with this version:
 
 Execute the specification one more time. Now all is green.
 
-![Test Explorer: Fourth Run]("/img/2016-02-09_TestExplorerFourthRun.png")
+![Test Explorer: Fourth Run](/public/img/2016-02-09_TestExplorerFourthRun.png)
 
 ## Summary and Next Steps
 
