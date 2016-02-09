@@ -1,10 +1,9 @@
 ---
-published: false
+published: true
 title: Your First Steps with SpecFlow
 layout: post
 tags: [SpecFlow, BDD, SpecificationByExample, FirstSteps]
 ---
-
 In this post, I will walk you through the steps you need to take to get your first [SpecFlow](http://www.specflow.org/) scenario up and running.
 
 ## Visual Studio
@@ -176,4 +175,4 @@ In this post I showed you how to get started with SpecFlow from scratch. We disc
 
 The next steps are two-fold: first, the calculator is very limited in its functionality. We can add more scenarios to describe subtraction, multiplication, division and other mathematical operations. Secondly, the implementation of the calculator is rather shaky: it assumes there are always at least two values in the `Values` list. So both the spectrum of functionality and the implementation of the existing functionality need to be improved.
 
-You now have the necessary knowledge for the first of those steps, and your C# software development knowledge will help you with the second step. 
+You now have the necessary knowledge for the first of those steps, and your C# software development knowledge will help you with the second step.
