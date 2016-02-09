@@ -45,7 +45,7 @@ Now we will set up a Visual Studio solution and project, and add references to S
     ![Add NuGet Packages]("/img/2016-02-09_AddNuGetPackages.png")
     5. Close the `NuGet Package Manager` window.
 
-## Add a `.feature` File
+## Add a Feature File
 
 We will now add the first `.feature` file: that is the kind of file that contains the scenarios that describe the expected behavior of your software.
 
@@ -119,7 +119,7 @@ This will
 - Give SpecFlow a calculator object to use.
 - Tell SpecFlow to call the `Enter` method on the calculator whenever the scenario says to enter a value.
 - Tell SpecFlow to call the `Add` method on the calculator whenever the scenario says to press add.
-- Tell SpecFlow to take the value from the `Display` property and compare it against the expected value whenever the scenario says to the display should have a certain value.
+- Tell SpecFlow to take the value from the `Display` property and compare it against the expected value whenever the scenario says the display should have a certain value.
 
 ## Implement the Business Logic
 
@@ -166,7 +166,7 @@ Execute the specification one more time. Now all is green.
 
 ## Summary and Next Steps
 
-Congratulations! You worked your way through this post and have implemented the business logic for the `Add Two Numbers` scenario. Your SpecFlow work flow should always follow this pattern:
+Congratulations! You worked your way through this post and have implemented the business logic for the `Add Two Numbers` scenario. Your SpecFlow workflow should always follow this pattern:
 
 1. Define a scenario.
 2. Provide step definitions that call the business logic
