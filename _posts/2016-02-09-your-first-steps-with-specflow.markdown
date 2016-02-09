@@ -80,7 +80,7 @@ Execute the specification again. The Test Explorer tool window now has a differe
 Replace the code for the `StepDefinition1` class with this version:
 
 
-```
+```csharp
     [Binding]
     public sealed class StepDefinition1
     {
@@ -126,7 +126,7 @@ After setting up the project, adding references, writing a scenario and preparin
 
 First create a new class called `Calculator` and replace it with this code:
 
-```
+```csharp
     public class Calculator
     {
         public int Display { get; set; }
@@ -152,7 +152,7 @@ Execute the specification again. The Test Explorer tool window now has yet anoth
 
 Now replace the `Add` method in `Calculator` with this version:
 
-```
+```csharp
         public void Add()
         {
             this.Display = this.Values[0] + this.Values[1];
