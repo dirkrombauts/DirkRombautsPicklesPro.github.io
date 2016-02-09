@@ -55,7 +55,7 @@ We will now add the first `.feature` file: that is the kind of file that contain
     3. Provide a name for the feature file near the bottom.
     4. Click on the `Add` button near the bottom right corner.     
 
-![Add Feature File](/public/img/2016-02-AddFeatureFile.png)
+![Add Feature File](/public/img/2016-02-09_AddFeatureFile.png)
 
 The `.feature` opens, and you will see a sample scenario (`Add Two Numbers`). 
 
