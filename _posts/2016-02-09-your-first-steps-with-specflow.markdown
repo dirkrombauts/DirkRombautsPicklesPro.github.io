@@ -16,7 +16,7 @@ Next you need to install the SpecFlow plug-in in Visual Studio.
 
 1. Start Visual Studio if it is not already running.
 2. In the `Tools` menu, click on `Extensions and Updates ...`.  
-   ![Start Extensions Manager](/img/2016-02-09_StartExtentionsManager.png)
+   ![Start Extensions Manager]({{ site.url }}/img/2016-02-09_StartExtentionsManager.png)
 3. Expand the `Online` node on the left hand side, and click on the `Visual Studio Gallery` node.  
    ![Open the Visual Studio Gallery]("/img/2016-02-09_OpenTheVisualStudioGallery.png")
 4. Search for `SpecFlow` in the search box in the top right corner, then click on the `Download` button for SpecFlow's entry in the search results.  
