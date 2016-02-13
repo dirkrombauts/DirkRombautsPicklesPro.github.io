@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Correspondence Course for Blog Writing?
 layout: post
 tags: [blog]
