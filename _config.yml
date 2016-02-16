@@ -9,3 +9,4 @@ highlighter: rouge
 gems:
    - jekyll-coffeescript
    - jekyll-paginate
+   - jekyll-gist
