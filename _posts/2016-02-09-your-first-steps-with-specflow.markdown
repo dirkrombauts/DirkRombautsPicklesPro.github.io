@@ -79,39 +79,7 @@ Execute the specification again. The Test Explorer tool window now has a differe
 
 Replace the code for the `StepDefinition1` class with this version:
 
-
-```csharp
-    [Binding]
-    public sealed class StepDefinition1
-    {
-        private readonly Calculator calculator;
-
-        public StepDefinition1(Calculator calculator)
-        {
-            this.calculator = calculator;
-        }
-
-        [Given("I have entered (.*) into the calculator")]
-        public void GivenIHaveEnteredSomethingIntoTheCalculator(int number)
-        {
-            this.calculator.Enter(number);
-        }
-
-        [When("I press add")]
-        public void WhenIPressAdd()
-        {
-            this.calculator.Add();
-        }
-
-        [Then("the result should be (.*) on the screen")]
-        public void ThenTheResultShouldBe(int expectedResult)
-        {
-            int actualResult = this.calculator.Display;
-
-            Assert.That(actualResult, Is.EqualTo(expectedResult));
-        }
-    }
-```
+{% gist DirkRombautsPicklesPro/4cb762ee1c1dbca999ba stepdefinition1.cs %}
 
 This will
 
@@ -126,24 +94,7 @@ After setting up the project, adding references, writing a scenario and preparin
 
 First create a new class called `Calculator` and replace it with this code:
 
-```csharp
-    public class Calculator
-    {
-        public int Display { get; set; }
-
-        private List<int> Values { get; } = new List<int>();
-
-        public void Add()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Enter(int number)
-        {
-            this.Values.Add(number);
-        }
-    }
-```
+{% gist DirkRombautsPicklesPro/4cb762ee1c1dbca999ba calculator.cs %}
 
 Execute the specification again. The Test Explorer tool window now has yet another different message: the method or operation is not implemented. SpecFlow found our step definitions and our calculator object, but the `Add` method is not implemented yet.
 
@@ -152,12 +103,7 @@ Execute the specification again. The Test Explorer tool window now has yet anoth
 
 Now replace the `Add` method in `Calculator` with this version:
 
-```csharp
-        public void Add()
-        {
-            this.Display = this.Values[0] + this.Values[1];
-        }
-```
+{% gist DirkRombautsPicklesPro/4cb762ee1c1dbca999ba add.cs %}
 
 Execute the specification one more time. Now all is green.
 
