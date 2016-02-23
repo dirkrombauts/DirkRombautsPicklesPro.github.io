@@ -24,4 +24,4 @@ No longer do business people frown when they hear the name of the tool: SpecFlow
 
 ## What's in a Name?
 
-Shakespeare famously has Juliet ask "[what's in a name?](https://en.wikipedia.org/wiki/A_rose_by_any_other_name_would_smell_as_sweet)": Romeo is perfect except for the name Montague. I think that Cucumber is one of the best things to happen to software development in the last decade, but the name SpecFlow fits much better.
+Shakespeare famously has Juliet ask "[what's in a name?](https://en.wikipedia.org/wiki/A_rose_by_any_other_name_would_smell_as_sweet)": Romeo is perfect except for the name Montague. I think that Cucumber is one of the best things to happen to software development in the last decade, but the name SpecFlow is a much better fit.
