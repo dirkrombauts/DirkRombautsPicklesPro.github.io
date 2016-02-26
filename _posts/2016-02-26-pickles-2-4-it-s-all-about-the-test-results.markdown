@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Pickles 2.4 - It's All About the Test Results
 layout: post
 ---
