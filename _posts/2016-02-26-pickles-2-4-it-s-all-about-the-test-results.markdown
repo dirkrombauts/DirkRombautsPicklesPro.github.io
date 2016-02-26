@@ -18,3 +18,5 @@ With the recent increase in supported test result formats, the list of radio but
 ![Dropdown list with test result formats](/public/img/2016-02-26_PicklesUI.png)
 
 I also included some bug fixes: the Cucumber JSON test result provider now deals correctly with background steps, for both the Ruby and the JavaScript versions of Cucumber: [#293](https://github.com/picklesdoc/pickles/issues/293). And I was able to fix a long-standing bug that resulted in corrupt Word documents: [#261](https://github.com/picklesdoc/pickles/issues/261).
+
+This is not the end of the road for the Test Results - I hope to improve them even further and above all make them more efficient. For now, though, this is a great intermediate stage.
