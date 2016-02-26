@@ -2,6 +2,7 @@
 published: true
 title: Pickles 2.4 - It's All About the Test Results
 layout: post
+tags: [SpecFlow, BDD, SpecificationByExample, Pickles, LivingDocumentation]
 ---
 A couple of minutes ago, I pressed the Enter key to start the deployment of version 2.4 of Pickles. The packages should become available soon on [Nuget](http://www.nuget.org/packages?q=pickles) and [Chocolatey](https://chocolatey.org/packages?q=pickles).
 
