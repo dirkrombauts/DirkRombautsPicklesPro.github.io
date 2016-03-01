@@ -1,6 +1,6 @@
 ---
 published: true
-title: NCrunch vs. JetBrains dotCover Continuous Testing: and the winner is ...
+title: NCrunch vs. JetBrains dotCover Continuous Testing - and the winner is ...
 layout: post
 tags: [BDD, TDD, ReSharper, VisualStudio, NCrunch]
 ---
