@@ -9,3 +9,20 @@ div.social-links-wrapper img
 {
 	display:inline;
 }
+
+div.about-the-author
+{
+	font-size: 75%;
+}
+
+div.about-the-author p
+{
+	margin-left: 80px;
+}
+
+div.about-the-author img
+{
+	width: 64px;
+	height: 64px;
+	float:left;
+}
