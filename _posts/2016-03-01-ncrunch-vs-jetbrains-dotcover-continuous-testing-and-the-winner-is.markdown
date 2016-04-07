@@ -30,7 +30,7 @@ dotCover is much, much better than nothing, and you get it for free if you alrea
 
 NCrunch has been along for several years, and found the "way to the heart" of Roy Osherove in the second edition of his book [The Art of Unit Testing](http://artofunittesting.com/). After installing NCrunch and running a short configuration wizard for your solution, you are presented with the `NCrunch Tests` tool window.
 
-![NCrunch Tests](/public/img/2016-03-01_ncrunch.png)
+![NCrunch Tests](/public/img/2016-03-01_NCrunch.png)
 
 The `NCrunch Tests` tool window shows ... not much. That's intentional: you will only see something if you need to take action. A unit test is red? You will see it. A project does not compile? You will see it. Everything green? You will see nothing. You see nothing? That means everything compiles and is green. That way, NCrunch establishes a trustworthy flow without need for much interpretation.
 
