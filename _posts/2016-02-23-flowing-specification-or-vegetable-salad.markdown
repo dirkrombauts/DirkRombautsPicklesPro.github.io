@@ -4,7 +4,7 @@ title: Flowing Specification or Vegetable Salad?
 layout: post
 tags: [SpecFlow, Cucumber]
 ---
-Last week, Aslak Hellesøy answered](https://www.quora.com/Cucumber-BDD-framework/Why-is-the-Cucumber-tool-for-BDD-named-as-such/answer/Aslak-Hellesøy) the question "[Why is the Cucumber tool for BDD named as such?](https://www.quora.com/Cucumber-BDD-framework/Why-is-the-Cucumber-tool-for-BDD-named-as-such/answer/Aslak-Hellesøy)". If you are doing BDD in .NET, you will be well aware that the prevalent BDD tool is not called *Cucumber .NET* or *nCucumber*, but rather *[SpecFlow](http://www.specflow.org)*. Personally, I like *SpecFlow* much better than *Cucumber*. Here's why.
+Last week, Aslak Hellesøy [answered](https://www.quora.com/Cucumber-BDD-framework/Why-is-the-Cucumber-tool-for-BDD-named-as-such/answer/Aslak-Hellesøy) the question "[Why is the Cucumber tool for BDD named as such?](https://www.quora.com/Cucumber-BDD-framework/Why-is-the-Cucumber-tool-for-BDD-named-as-such/answer/Aslak-Hellesøy)". If you are doing BDD in .NET, you will be well aware that the prevalent BDD tool is not called *Cucumber .NET* or *nCucumber*, but rather *[SpecFlow](http://www.specflow.org)*. Personally, I like *SpecFlow* much better than *Cucumber*. Here's why.
 
 ## Vegetable Salad
 
