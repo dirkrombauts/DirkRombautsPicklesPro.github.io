@@ -4,7 +4,7 @@ title: Pickles 2.6 - The CukeUP Edition
 layout: post
 tags: [SpecFlow, BDD, SpecificationByExample, Pickles, LivingDocumentation]
 ---
-Earlier today, I released version 2.6 of Pickles, in time for the [CukeUP conference](https://skillsmatter.com/conferences/7606-cukeup-2016) in London this week.. The packages are available now on [Nuget](http://www.nuget.org/packages?q=pickles) and [Chocolatey](https://chocolatey.org/packages?q=pickles).
+Earlier today, I released version 2.6 of Pickles, in time for the [CukeUP conference](https://skillsmatter.com/conferences/7606-cukeup-2016) in London this week. The packages are available now on [Nuget](http://www.nuget.org/packages?q=pickles) and [Chocolatey](https://chocolatey.org/packages?q=pickles).
 
 *Shameless plug: I will hold a lightning talk at the conference on Thursday about "The Dark Side of BDD". I hope to see you there!*
 
