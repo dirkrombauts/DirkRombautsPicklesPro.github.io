@@ -40,7 +40,7 @@ understand the workings of a system, and not as test cases.
 
 **Update 5 May 2016:** My main takeaways:
 
-  1. By keeping the language
+1. By keeping the language
 and the wording of the examples clear, you can use the examples to
 define the entities and actions of your domain model (this in addition to
 using the automation layer to define the methods of the domain model as
