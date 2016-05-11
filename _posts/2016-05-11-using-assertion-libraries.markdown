@@ -56,6 +56,10 @@ NFluent provides a well-documented way to extend the assertion methods. You can 
 
 NFluent is not perfect. Asserting on large strings is a pain because the error messages truncate the strings. I've been meaning to write my own assertion method for that :-)
 
+### Update 18:20
+
+I withdraw my remarks about asserting on large strings with NFluent. The team behind NFluent have been busy improving the error messages. The error message for strings now states the index where the strings diverge, and quotes that location both in the actual and the expected string.
+
 ## Reducing Vendor Lock-In
 
 As a side-effect, using an assertion library reduces your dependency on the unit test framework. If you use an assertion library, you can change the unit test framework with relative ease. All you need to do is do a search-and-replace on the attributes that define test classes and methods. There's no need to port your assertions from the old unit test framework to the new one.
