@@ -50,7 +50,7 @@ Some people don't like the "should" wording, because they feel "should" is too w
 
 Assertions written in NFluent read like natural sentences. They provide a strong wording that leaves no room for argument. The focus lies on the `actual` value. NFluent provides a proper fluent interface, and does not clutter IntelliSense. NFluent also provides informative error messages.
 
-{% gist DirkRombautsPicklesPro/79020b90fac0604190369e1146174c4c AutomationLayer-NFluent.cs %}
+{% gist DirkRombautsPicklesPro/79020b90fac0604190369e1146174c4c AutomationLayer.NFluent.cs %}
 
 NFluent provides a well-documented way to extend the assertion methods. You can provide an assertion method specific to your business objects and their properties.
 
