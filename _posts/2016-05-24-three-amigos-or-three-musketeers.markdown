@@ -16,6 +16,6 @@ Representatives from these three (and potentially other) roles will meet to disc
 
 I recently explained about BDD and the Three Amigos to a stone merchant and a marketing consultant. They are two intelligent people, and have no experience with software development. I stressed the importance of the three roles working together. Without the team, none can succeed, and the team needs each one to succeed. I think it was the marketing consultant who said "so it's like the three musketeers: one for all, and all for one."
 
-I immediately liked this comparison. I never watched the *Three Amigos* movie, so I don't know how good their teamwork is. But I do know that the Three Musketeers are famous for sticking with each other through thick and thin - exactly the quality I am looking for in a team.
+I immediately liked this comparison. I never watched the *Three Amigos* movie, so I don't know how good their teamwork is. But I do know that the Three Musketeers are famous for sticking with each other through thick and thin &ndash; exactly the quality I am looking for in a team.
 
 So here's my bold statement for today: **I think that *Three Musketeers* is a better name for the Specification By Example workshops than *Three Amigos*.** What do you think? Please let me know!
