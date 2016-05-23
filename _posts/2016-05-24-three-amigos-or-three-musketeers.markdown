@@ -18,4 +18,4 @@ I recently explained about BDD and the Three Amigos to a stone merchant and a ma
 
 I immediately liked this comparison. I never watched the *Three Amigos* movie, so I don't know how good their teamwork is. But I do know that the Three Musketeers are famous for sticking with each other through thick and thin - exactly the quality I am looking for in a team.
 
-So here's my bold statement for today: **I think that *Three Musketeers* is a better name for the Specification By Example workshops that *Three Amigos***. What do you think? Please let me know!
+So here's my bold statement for today: **I think that *Three Musketeers* is a better name for the Specification By Example workshops than *Three Amigos*.** What do you think? Please let me know!
