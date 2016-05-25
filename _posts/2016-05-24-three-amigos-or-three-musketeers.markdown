@@ -12,7 +12,7 @@ The collaboration between all roles in a project team is an essential part of Be
 
 Representatives from these three (and potentially other) roles will meet to discuss requirements. They will work out a specification by coming up with examples.
 
-[Gojko Adzic](http://gojko.net/) coined the term "Three Amigos Meeting" for those sessions, probably as a whimsical reference to the [1986 movie](http://www.imdb.com/title/tt0092086/).
+<del>[Gojko Adzic](http://gojko.net/) coined the term "Three Amigos Meeting" for those sessions, probably as a whimsical reference to the [1986 movie](http://www.imdb.com/title/tt0092086/).</del> **Update 25 May 2016**: [George Dinwiddie](http://idiacomputing.com/) and Bob Payne coined the term "Three Amigos". 
 
 I recently explained about BDD and the Three Amigos to a stone merchant and a marketing consultant. They are two intelligent people, and have no experience with software development. I stressed the importance of the three roles working together. Without the team, none can succeed, and the team needs each one to succeed. I think it was the marketing consultant who said "so it's like the three musketeers: one for all, and all for one."
 
