@@ -6,6 +6,8 @@ tags: [SpecFlow, BDD, SpecificationByExample, FirstSteps]
 ---
 In this post, I will walk you through the steps you need to take to get your first [SpecFlow](http://www.specflow.org/) scenario up and running.
 
+<!--more-->
+
 ## Visual Studio
 
 You will need a version of Visual Studio that can load plug-ins. Most versions can, it is mainly the Express editions of older Visual Studio versions that are unable to do that. If you do not have Visual Studio yet, then your best bet is the free [Community Edition of Visual Studio 2015](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx).
@@ -34,14 +36,14 @@ Now we will set up a Visual Studio solution and project, and add references to S
     2. Click on the entry for `Class Library` in the list in the middle pane.
     3. Provide a name in the `Name` textbox near the bottom, for example `FirstStepsWithSpecFlow`.
     4. Click on the `OK` button in the bottom right corner.      
-    ![Create New Project](/public/img/2016-02-09_CreateNewProject.png)
+        ![Create New Project](/public/img/2016-02-09_CreateNewProject.png)
 3. Visual Studio provides a class named `Class1`. Delete it by right-clicking its file in the Solution Explorer and clicking `Delete`. Click on the `OK` button to confirm.
 4. Add a reference to SpecFlow and [nUnit](http://www.nunit.org/), a unit-testing framework:
     1. Right-click on the project (named `FirstStepsWithSpecFlow`) in Solution Explorer and click on `Manage NuGet Packages ...`.
     2. In the `NuGet Package Manager` window, click on `Browse` and search for `SpecFlow.NUnit`.
     3. Click on the entry for `SpecFlow.NUnit` in the result list
     4. Click on the `Install` button on the right hand side.  
-    ![Add NuGet Packages](/public/img/2016-02-09_AddNuGetPackages.png)
+        ![Add NuGet Packages](/public/img/2016-02-09_AddNuGetPackages.png)
     5. Close the `NuGet Package Manager` window.
 
 ## Add a Feature File

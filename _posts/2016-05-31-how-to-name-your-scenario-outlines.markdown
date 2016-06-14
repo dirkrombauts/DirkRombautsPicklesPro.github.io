@@ -10,7 +10,11 @@ There are are a couple of schools of thought on how to name a scenario, but they
 
 For example, "Scenario 1" is not a good title, but "Suggest a long break after the 4th work block" is good.
 
-This is all well and good for scenarios, but for a scenario outline things get more complicated. Consider the following scenario outline:
+This is all well and good for scenarios, but for a scenario outline things get more complicated.
+
+<!--more-->
+
+Consider the following scenario outline:
 
 {% gist DirkRombautsPicklesPro/833bc8ded21f82fc4a02591bde20460a ScenarioOutline.feature %}
 

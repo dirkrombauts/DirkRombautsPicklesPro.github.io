@@ -8,6 +8,8 @@ tags: [Pickles, SemanticVersioning, SemVer]
 
 There's a saying, usually [attributed](http://martinfowler.com/bliki/TwoHardThings.html) to Phil Karlton, that goes "There are only two hard things in Computer Science: cache invalidation and naming things."  Surely a corollary of that must be "Naming a version is fiendishly hard".
 
+<!--more-->
+
 When it comes to naming the version of a software product, business people and marketing people have a track record of doing wild things. Does anybody remember that Microsoft Word went from version 2.0 to 6.0 in one leap so that they could draw level with WordPerfect 6.0? Or Microsoft Windows jumping from 3.11 to 95? Those versions are a marketing vehicle, nothing more.
 
 One could argue: at least they tell me something about the chronological order: surely a version that is marketed with a higher number must come before a version with a lower number? Not quite: Microsoft recently published a preview of what is currently named 'Visual Studio "15"'. The current stable version of Visual Studio is Visual Studio 2015, so there's an amusing number of ways in which versions 2015 and "15" can be confused.

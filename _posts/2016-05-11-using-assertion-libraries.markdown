@@ -6,6 +6,8 @@ tags: [SpecFlow, AutomationLayer, Code]
 ---
 Code needs to be well-readable. After all, you will read a set of lines of code far more often than you write them. When it comes to expressing assertions in test code, the usual ways fall somewhat short of the mark. Assertion libraries can improve matters, and as a side effect reduce vendor lock-in.
 
+<!--more-->
+
 ## Setting the stage
 
 Consider the traditional `.feature` file in SpecFlow:

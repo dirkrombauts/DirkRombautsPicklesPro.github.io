@@ -6,6 +6,8 @@ tags: [SpecFlow, Pickles, BDD, LivingDocumentation, SpecificationByExample]
 ---
 When you are working with *Behaviour Driven Development*, *Specification By Example*, or *Acceptance Test Driven Developments*, sooner or later you are likely to run into the concept of a *Living Documentation*. And you might well ask yourself: "what is a Living Documentation? What makes is *living*?"
 
+<!--more-->
+
 ## Board Games and Living Rulebooks
 
 Let me make an excursion into another passion of mine: board games. If you are not into board games, that's fine: just picture computer games instead. These days, many board games (and very many computer games) are not done when the original game is over, but rather they have expansions. One of my current favourites is [*Twilight Imperium Third Edition*](https://www.fantasyflightgames.com/en/products/twilight-imperium-3rd-edition/) by Fantasy Flight Games. There is the game itself, and there are 2 boxed expansions (as of early 2016).

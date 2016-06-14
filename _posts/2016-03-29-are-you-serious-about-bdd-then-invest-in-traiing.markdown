@@ -6,6 +6,8 @@ tags: [SpecFlow, BDD, SpecificationByExample, AcceptanceTestDrivenDevelopment]
 ---
 Behaviour Driven Development is a very rich methodology, in that it covers a wide spectrum of activities. There is something to do for Product Owners, Business Analysts, Developers, Architects, Testers, ... That begs the question: how do you and your colleagues obtain the knowledge you need?
 
+<!--more-->
+
 Developers have perhaps the easiest way of obtaining their knowledge: they can experiment in Visual Studio, read blogs, or search on Stack Overflow. The other roles have it much harder. They can watch a couple of videos on the [SpecLog Getting Started page](http://www.speclog.net/getting-started/) but those are very much focused on using SpecLog.
 
 There are a couple of good books that I recommend: [Bridging the Communication Gap](https://books.gojko.net/bridging-the-communication-gap/) and [Specification by Example](https://books.gojko.net/specification-by-example/) by Gojko Adzic, and [The Cucumber Book](https://pragprog.com/book/hwcuc/the-cucumber-book) by Matt Wynne and Aslak Hellesøy.
