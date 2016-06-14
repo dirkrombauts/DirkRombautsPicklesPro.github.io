@@ -8,6 +8,8 @@ I recently read about a study claiming that 24% of all IT projects in Germany fa
 
 The website IT Cortex paints an even [grimmer](http://www.it-cortex.com/Stat_Failure_Cause.htm) [picture](http://www.it-cortex.com/Stat_Failure_Rate.htm): half to three quarters of IT projects fail in some way. This begs the question: why? What are the causes?
 
+<!--more-->
+
 The studies mentioned in those reports state that lack of or inadequate communication between relevant parties, and insufficient requirement management are to blame for at least a quarter and often more than half of those failures.
 
 So in order to increase your chance of success with an IT project, and thus also increase the ROI of the time and money spent, wouldn't it be cool if some technique could improve the communication between involved parties and the understanding of the requirements?

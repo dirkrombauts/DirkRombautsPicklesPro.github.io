@@ -8,6 +8,8 @@ Agile software development is all about shortening the feedback cycle: the soone
 
 [NCrunch by Remco Software Ltd](http://www.ncrunch.net/) and [dotCover by JetBrains](https://www.jetbrains.com/dotcover/)  are two plugins for Visual Studio that will help you go through red-green-refactor feedback cycle faster. And that's a good thing, because faster feedback directly leads to less waste.
 
+<!--more-->
+
 So what do they do? They enable you to run unit tests in Visual Studio. "But wait", you say, "Visual Studio already does that itself. Why do I need a plugin?" True, but both these plugins do something more than Visual Studio: they continuously run the unit tests in the background. You don't need to compile and you don't need to start the test run. They even figure out which tests are affected by the code you just changed and run only those tests. That means you get feedback even faster. And faster feedback ... yes, you get it by now ;-)
 
 In this post, I'm pitting NCrunch against dotCover: I will list their pros and cons, and tell you which one I prefer. I will not talk about [TestDriven.NET by Mutant Design Limited](http://www.testdriven.net/) because I have no real hands-on experience with it.

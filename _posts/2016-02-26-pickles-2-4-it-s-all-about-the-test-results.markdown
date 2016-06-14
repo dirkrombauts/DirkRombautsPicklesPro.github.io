@@ -6,6 +6,8 @@ tags: [SpecFlow, BDD, SpecificationByExample, Pickles, LivingDocumentation]
 ---
 A couple of minutes ago, I pressed the Enter key to start the deployment of version 2.4 of Pickles. The packages should become available soon on [Nuget](http://www.nuget.org/packages?q=pickles) and [Chocolatey](https://chocolatey.org/packages?q=pickles).
 
+<!--more-->
+
 I'm very excited about this release, because I was able to invest a significant amount of time to eliminate some of the biggest thorns in my side with regard to the test result providers:
 
 - All test result providers are now able to give the result of individual examples in a scenario outline: [#285](https://github.com/picklesdoc/pickles/issues/285), [#286](https://github.com/picklesdoc/pickles/issues/286) and [#287](https://github.com/picklesdoc/pickles/issues/287).

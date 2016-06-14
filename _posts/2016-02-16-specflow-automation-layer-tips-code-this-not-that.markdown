@@ -8,6 +8,8 @@ I read an interesting article about SpecFlow tips called "[Code This, Not That -
 
 In this post, I will enhance one of Joe's tips and add one of my own.
 
+<!--more-->
+
 ## Working with Tables
 
 In his first section, "When working with tables..." Joe tells us to use the `CreateInstance<T>` and `CreateSet<T>` extension methods from the `TechTalk.SpecFlow.Assist` namespace. I encourage you to take this one step further and use a step argument transformation.

@@ -6,6 +6,8 @@ tags: [BDD, SpecificationByExample, Cucumber, SpecFlow]
 ---
 It's no secret that I'm setting myself up for a new career as a BDD coach. In preparation I'm taking part in a number of workshops, for example about marketing. During that workshop, I had to describe what a BDD coach does, what BDD is about.
 
+<!--more-->
+
 It was surprisingly difficult for me to explain what BDD is about to a non-technical person. After a couple of iterations, I came up with this:
 
 <blockquote>

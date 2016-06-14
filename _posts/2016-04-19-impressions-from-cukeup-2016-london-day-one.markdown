@@ -15,6 +15,8 @@ The conference was organized by Skills Matter and took place at CodeNode. There
 was plenty of food and drink, good wifi, and lots of space. A big thank you to
 the crew of Skills Matter who took such good care of us!
 
+<!--more-->
+
 ## Keynote: Kind of Green
 
 The keynote of day one was delivered by

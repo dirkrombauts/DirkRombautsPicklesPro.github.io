@@ -8,6 +8,8 @@ Last week, I read an article by Ian Sommerville where he explains why he is [giv
 
 This post is an answer to the former, from a point of view that is slightly different from the latter. And of course, since this is a blog about Behaviour Driven Development, I will tell you what BDD has got to do with it. :-)
 
+<!--more-->
+
 ## I have given up on TDD, too!
 
 Here's my dirty little secret: I have given up on TDD any number of times. I have lost track of the number of times when I threw my hands up in the air and returned to the tried-and-(not-so)-tested approach of code-first and tests-later-if-at-all. But here's the thing: I have come back to TDD just as many times. Because I believe it's worthwhile.

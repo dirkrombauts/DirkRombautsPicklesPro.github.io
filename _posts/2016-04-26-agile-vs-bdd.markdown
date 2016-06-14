@@ -7,8 +7,9 @@ tags: [Agile, Scrum, BDD, SpecificationByExample, OutsideInDevelopment]
 Earlier today, I received an email with this question:
 
     I am trying to understand the difference between Agile and BDD. Where do they both fit in the picture? I thought doing 10 minutes standups, sprint planning, demos and retrospectives where a way to implement BDD in a team. [...] I'm getting a little lost here.
-
 Let’s see if I can explain some of the differences between Agile and Behaviour Driven Development (BDD). First – and this is probably the reason you got confused – Agile and BDD work really well together. You can do Agile without BDD, and you can even use BDD without Agile, but in my opinion you will get the best from both if you use them together. So if you were afraid you were doing something wrong by doing standups, sprint planning, demos and retrospectives: have no fear, those are excellent practices and you will benefit from them.
+
+<!--more-->
 
 ## Agile
 

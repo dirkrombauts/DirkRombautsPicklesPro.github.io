@@ -10,6 +10,8 @@ Earlier today, I released version 2.6 of Pickles, in time for the [CukeUP confer
 
 I'm not 100% certain, but I'm fairly positive that this version of Pickles scores a new record of most external contributors in a single release. No less than three people dedicated some of their time toward improving Pickles. A heartfelt "thank you" to (in alphabetical order) [Aaron Rich](https://github.com/aaronjrich), [Daniel Pullwitt](https://github.com/danielpullwitt) and [Ludwig Jossieaux](https://github.com/ludwigjossieaux).
 
+<!--more-->
+
 ## Search for multiple tags in the dynamic HTML version
 
 One of the attractions of the dynamic HTML version is that it includes a search functionality: you can search by tag or by feature name. This search now got better: it is now possible to search for multiple tags. Adding two tags in the search field will show only those features where a scenario has at least one of those tags.

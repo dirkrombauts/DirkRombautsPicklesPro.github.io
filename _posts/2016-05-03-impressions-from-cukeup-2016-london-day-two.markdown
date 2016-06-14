@@ -10,6 +10,8 @@ the definitive BDD conference in Europe. It was a fantastic experience: I got
 to meet many interesting people, to learn (and try out) new insights and
 techniques. Here are my thoughts from day two!
 
+<!--more-->
+
 ## Keynote: A BDD Manifesto
 
 The keynote of day two was delivered by 
@@ -41,19 +43,19 @@ understand the workings of a system, and not as test cases.
 **Update 5 May 2016:** My main takeaways:
 
 1. By keeping the language
-and the wording of the examples clear, you can use the examples to
-define the entities and actions of your domain model (this in addition to
-using the automation layer to define the methods of the domain model as
-per Outside-In Development).
+   and the wording of the examples clear, you can use the examples to
+   define the entities and actions of your domain model (this in addition to
+   using the automation layer to define the methods of the domain model as
+   per Outside-In Development).
 2. When you align the domain model closely to the business language,
-then problems that are difficult to express in business language tend to
-be difficult to implement and problems that are easy to express in business
-language tend to be easy to implement. That makes it easier for business people
-to get a feeling for the implementation difficulty.
+   then problems that are difficult to express in business language tend to
+   be difficult to implement and problems that are easy to express in business
+   language tend to be easy to implement. That makes it easier for business people
+   to get a feeling for the implementation difficulty.
 3. It's really important to use the terms the business people use. Try to watch
-for clues in the communication that indicate you are using the wrong words. For example,
-in the context of a frequent flyer programme: the IT person talks about "points" and
-the business person says "what? Oh, yes, points" while thinking "we call them 'miles'".
+   for clues in the communication that indicate you are using the wrong words. For example,
+   in the context of a frequent flyer programme: the IT person talks about "points" and
+   the business person says "what? Oh, yes, points" while thinking "we call them 'miles'".
 
 ## Workshop: Bringing User Stories to Life
 
