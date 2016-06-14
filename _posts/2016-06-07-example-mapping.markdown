@@ -8,6 +8,8 @@ As I've [blogged about](http://blog.picklespro.com/2016/05/24/three-amigos-or-th
 
 In December last year, Matt Wynne wrote a blog entry "[Introducing Example Mapping](https://cucumber.io/blog/2015/12/08/example-mapping-introduction)" where he talks about a technique he has been using to make planning meetings both more interesting to attend and more effective in their outcome.
 
+<!--more-->
+
 I have had the opportunity to try it out twice so far, once at [CukeUP! London 2016](http://blog.picklespro.com/2016/04/19/impressions-from-cukeup-2016-london-day-one.html), and once during [Gáspár Nagy's Developing with SpecFlow](https://skillsmatter.com/courses/539-gaspar-nagy-s-developing-with-specflow) course. I think it's a technique with great potential, but it will require practice to get the most out of it.
 
 If you are new to Example Mapping, I recommend you read Matt's article. For those in a hurry, I will summarize my understanding of the technique and its results.
