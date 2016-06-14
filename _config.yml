@@ -5,7 +5,7 @@ email: dirk.rombauts@picklespro.com
 title: Pickles Pro Blog
 tagline: .NET BDD from the trenches
 description: I will discuss my journey through the wonderful world of Behaviour Driven Development in .NET. Even the longest journey can be made in small steps!
-paginate: 5
+paginate: 10
 highlighter: rouge
 gems:
    - jekyll-coffeescript
