@@ -6,6 +6,8 @@ tags: [BDD, SpecificationByExample, Cucumber, SpecFlow, LivingDocumentation]
 ---
 There are a lot of terms and aspects of Behaviour Driven Development (BDD) flying about, and it may not always be immediately obvious what the benefits of them are. I will attempt to bring some clarity here, and in doing so I will define the **three pillars of BDD**.
 
+![Three Pillars of BDD](/public/img/2016-06-21_ThreePillarsOfBDD.png)
+
 <!--more-->
 
 ## The First Pillar: Specification By Example
