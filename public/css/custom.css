@@ -26,3 +26,8 @@ div.about-the-author img
 	height: 64px;
 	float:left;
 }
+
+img.teaserImage
+{
+	max-width: 100%;
+}
