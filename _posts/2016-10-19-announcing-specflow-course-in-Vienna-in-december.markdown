@@ -6,7 +6,7 @@ tags: [BDD, SpecificationByExample, SpecFlow, LivingDocumentation, Pickles, Spec
 ---
 Earlier this year, I became an accredited [SpecFlow Course](http://www.specflow.org/training/) Trainer, and I'm excited to announce that this december I will deliver the official "Developing with SpecFlow" course for the first time! To celebrate this happy occasion (and the upcoming xmas festivities) I'm offering a whopping 800 EUR rebate! That's right, I'm slashing the price from 1750 EUR to 950 EUR. The catch is that there's only a limited number of places available, so hurry and send your booking email to [booking@picklespro.com](mailto:booking@picklespro.com).
 
-![SpecFlow course ad](/public/img/2016-10-19_specflow-in-wien.jpg)
+![SpecFlow course ad](/public/img/2016-10-19_specflow-in-wien.jpg){: .teaserImage }
 
 <!--more-->
 
