@@ -6,6 +6,8 @@ tags: [BDD, SpecificationByExample, SpecFlow, Training, Craft]
 ---
 If you want to learn something properly and want to improve your own abilities, then you will need to study and practice. A craftsman doesn’t learn his craft in a single day, but goes through an apprenticeship and makes practice pieces. A musician learns how to play her instrument from a more experienced musician, and practices daily.
 
+<!--more-->
+
 Twice I have tried to teach myself how to play the (bass) guitar. Both times I failed miserably. For my third attempt I hired a teacher to help me overcome the initial hurdles. These days, I play bass guitar for an hour each day and have lots of fun with it.
 
 The same is true for software development and Behaviour Driven Development. Learning these things is much more effective when an experience coach is at hand to guide you through the first steps and to show you the advanced tricks.
