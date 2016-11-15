@@ -60,3 +60,5 @@ A humorous talk about the pillars of agile testing, about the results that are s
 
 ## Conclusion
 I’m happy I took part in this conference, even at the expense of “losing a day off” because the conference was on a Saturday. It was great to reconnect with people, to learn a couple of new things from other people’s presentations. I also had a blast holding my own presentation. I’m looking forward to next year’s edition!
+
+*This December I'm teaching the official "Developing with SpecFlow" course in Vienna (in German). Visit [the course's page](http://www.picklespro.com/xmasspecial/) for more details and sign up quickly at [booking@picklespro.com](mailto:booking@picklespro.com) to profit from the xmas special!*
